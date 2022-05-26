@@ -90,4 +90,12 @@
         tools:layout_editor_absoluteX="248dp"
         tools:layout_editor_absoluteY="102dp" />
 
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@android:drawable/alert_dark_frame"
+        tools:layout_editor_absoluteX="114dp"
+        tools:layout_editor_absoluteY="502dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
